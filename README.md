@@ -1,2 +1,2 @@
 # android-demo
-Dot touch me!
+Dot not touch me!
